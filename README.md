@@ -24,13 +24,15 @@ Visualizations were used to explore correlations between features and the target
 
 ### 🔹 Pairplot of Key Features
 
-*(Insert this plot here)*
+*<img width="995" height="284" alt="image" src="https://github.com/user-attachments/assets/ab0c758e-dbbc-49f6-a998-7aed66de8c3c" />
+*
 
 ### 🔹 Length of Membership vs Yearly Amount Spent
 
 A strong positive correlation is observed between Length of Membership and Yearly Amount Spent.
 
-*(Insert this scatter plot here)*
+*<img width="483" height="485" alt="image" src="https://github.com/user-attachments/assets/9542896e-0118-404a-ba33-d946bfef3b7c" />
+*
 
 ---
 
