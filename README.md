@@ -39,3 +39,56 @@ A strong positive correlation is observed between Length of Membership and Yearl
 We trained a **multiple linear regression model** using the following equation:
 Y = β₀ + β₁·Avg. Session Length + β₂·Time on App + β₃·Time on Website + β₄·Length of Membership
 
+
+Where:
+- `Y`: Predicted Yearly Amount Spent  
+- `β₀` to `β₄`: Model coefficients
+
+### 📌 Learned Coefficients
+
+| Feature               | Coefficient |
+|-----------------------|-------------|
+| Avg. Session Length   | 25.72       |
+| Time on App           | 38.60       |
+| Time on Website       | 0.46        |
+| Length of Membership  | 61.67       |
+
+The **Length of Membership** and **Time on App** have the highest influence on spending.
+
+---
+
+## 📈 Model Evaluation
+
+| Metric         | Value       |
+|----------------|-------------|
+| MAE            | (Insert MAE) |
+| MSE            | (Insert MSE) |
+| RMSE           | (Insert RMSE) |
+
+### 🔹 Predicted vs Actual Plot
+
+*(Insert this plot here)*
+
+Residuals are roughly normally distributed, indicating a good fit.
+
+---
+
+## 💡 Insights
+
+- **Length of Membership** is the strongest predictor of customer spending.
+- **Time on App** is more influential than **Time on Website**.
+- The company should consider investing more in **improving the mobile app experience** rather than the website.
+
+---
+
+## 🧰 Tools & Libraries
+
+- Python
+- Pandas
+- NumPy
+- Seaborn
+- Matplotlib
+- Scikit-learn
+
+
+
