@@ -1,6 +1,6 @@
 # 🛍️ E-commerce Customer Spending Prediction using Linear Regression
 
-This project analyzes customer data from an e-commerce clothing store to **predict yearly customer spending** using a **Linear Regression** model. The goal is to help the company decide whether to improve the **mobile app experience** or the **website interface** to increase revenue.
+This project analyzes customer data from an e-commerce clothing store to **predict yearly customer spending** using a **Linear Regression** model. The goal is to help the company decide whether to improve the **mobile app experience** or the **website interface** to increase revenue. 
 
 ---
 
