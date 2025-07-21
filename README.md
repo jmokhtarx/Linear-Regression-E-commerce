@@ -37,6 +37,7 @@ A strong positive correlation is observed between Length of Membership and Yearl
 ## 🧠 Model: Linear Regression
 
 We trained a **multiple linear regression model** using the following equation:
+
 Y = β₀ + β₁·Avg. Session Length + β₂·Time on App + β₃·Time on Website + β₄·Length of Membership
 
 
@@ -61,13 +62,14 @@ The **Length of Membership** and **Time on App** have the highest influence on s
 
 | Metric         | Value       |
 |----------------|-------------|
-| MAE            | (Insert MAE) |
-| MSE            | (Insert MSE) |
-| RMSE           | (Insert RMSE) |
+| MAE            | 8.426091641 |
+| MSE            | 103.9155413 |
+| RMSE           | 10.19389726 |
 
 ### 🔹 Predicted vs Actual Plot
 
-*(Insert this plot here)*
+<img width="565" height="454" alt="image" src="https://github.com/user-attachments/assets/40bf6c8f-ef5a-468e-bbda-f1a8a766bd96" />
+
 
 Residuals are roughly normally distributed, indicating a good fit.
 
